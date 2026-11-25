@@ -15,5 +15,7 @@
 
 **Resultado esperado:**
 O sistema deve autenticar o utilizador e direcioná-lo para a sua conta.
+**Resultado obtido:**
+Não aplicavel (teste ainda não executado).
 
-**Estado:** Não executado.
+**Estado:** Não executado. (NOT RUN).
